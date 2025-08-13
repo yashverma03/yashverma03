@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Verma</h1>
-<p align="center">Junior Software Engineer at Oats Tech | NSUT'24 | DSA | Full Stack Web Developer (MERN)</p>
+<p align="center">Software Engineer at Oats Tech | Full Stack Web Developer (JavaScript, TypeScript, ReactJS, NodeJS, MySQL, PostgreSQL, Docker, AWS) | NSUT'24 | Building Scalable Web Apps & APIs</p>
 <br>
 <div align="center">
 
@@ -16,3 +16,4 @@ My top projects:
 - [Ecommerce app](https://github.com/yashverma03/ecommerce)
 - [Blog app](https://github.com/yashverma03/blog)
 - [Video Streaming app](https://github.com/yashverma03/video-streaming)
+
