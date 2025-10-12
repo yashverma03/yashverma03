@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Yash Verma</h1>
-<p align="center">Software Engineer at Oats Tech | Backend Developer (JavaScript, TypeScript, NodeJS, MySQL, PostgreSQL, Docker, AWS) | NSUT’24 | Designing Scalable & High-Performance Systems</p>
+<p align="center">
+  Software Engineer at Oats Tech | Backend Developer (JavaScript, TypeScript, NodeJS, MySQL, PostgreSQL, Docker, AWS) | NSUT’24 | Designing Scalable & High-Performance Systems
+</p>
 <br>
 <div align="center">
 
-[Resume](https://drive.google.com/file/d/1_52R52MmukcObe3ZaWhOmkq3tUAA7hVi) |
-[Portfolio](https://yashverma.onrender.com) |
-[Github](https://github.com/yashverma03) |
-[GFG](https://auth.geeksforgeeks.org/user/yashverma2003) |
-[Leetcode](https://leetcode.com/yashverma03)
+<a href="https://drive.google.com/file/d/1_52R52MmukcObe3ZaWhOmkq3tUAA7hVi" target="_blank">Resume</a> |
+<a href="https://yashverma.onrender.com" target="_blank">Portfolio</a> |
+<a href="https://github.com/yashverma03" target="_blank">Github</a> |
+<a href="https://auth.geeksforgeeks.org/user/yashverma2003" target="_blank">GFG</a> |
+<a href="https://leetcode.com/yashverma03" target="_blank">Leetcode</a>
 
 </div>
 <br>
 
 My top projects:
 
-- [Ecommerce app](https://github.com/yashverma03/ecommerce)
-- [Blog app](https://github.com/yashverma03/blog)
-- [Video Streaming app](https://github.com/yashverma03/video-streaming)
-
-
+- <a href="https://github.com/yashverma03/ecommerce" target="_blank">Ecommerce app</a>  
+- <a href="https://github.com/yashverma03/blog" target="_blank">Blog app</a>  
+- <a href="https://github.com/yashverma03/video-streaming" target="_blank">Video Streaming app</a>
