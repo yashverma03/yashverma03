@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Verma</h1>
 <p align="center">
-  Software Engineer at Oats Tech | Backend Developer (JavaScript, TypeScript, Node.js, Java, Spring Boot, Python, Django, PostgreSQL, Docker, AWS) | NSUT’24 | Designing Scalable & High-Performance Systems
+  Software Engineer at Oats Tech | Full Stack Developer (JavaScript, TypeScript, Node.js, Java, Spring Boot, Python, Django, PostgreSQL, Docker, AWS) | NSUT’24 | Designing Scalable & High-Performance Systems
 </p>
 <br>
 <div align="center">
@@ -16,8 +16,6 @@
 
 My top projects:
 
-- <a href="https://github.com/yashverma03/ecommerce" target="_blank">Ecommerce app</a>  
-- <a href="https://github.com/yashverma03/blog" target="_blank">Blog app</a>  
+- <a href="https://github.com/yashverma03/ecommerce" target="_blank">Ecommerce app</a>
+- <a href="https://github.com/yashverma03/blog" target="_blank">Blog app</a>
 - <a href="https://github.com/yashverma03/video-streaming" target="_blank">Video Streaming app</a>
-
-
