@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Verma</h1>
 <p align="center">
-  Software Engineer at Oats Tech | Full Stack Developer (JavaScript, TypeScript, Node.js, Java, Spring Boot, Python, Django, PostgreSQL, Docker, AWS) | NSUT’24 | Designing Scalable & High-Performance Systems
+  Software Engineer, Oats Tech | Full Stack Software Engineer (3+ Years) | Scalable Cloud-Native SaaS Platforms and High-Volume Payment Systems | Java, Spring Boot, Python, Django, TypeScript, Node.js, PostgreSQL, AWS, Docker, Kubernetes
 </p>
 <br>
 <div align="center">
